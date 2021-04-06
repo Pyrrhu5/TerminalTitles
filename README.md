@@ -40,10 +40,7 @@ Git is required
 git --version
 ```
 
-Clone
-```bash
-git clone https://aymericdeschard@bitbucket.org/aymericdeschard/terminaltitles.git <where you want to install it>
-```
+Clone it.
 
 **Dependencies**
 
